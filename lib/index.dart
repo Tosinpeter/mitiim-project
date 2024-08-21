@@ -1,0 +1,138 @@
+// Export pages
+export '/pages/setting/account/account_widget.dart' show AccountWidget;
+export '/pages/auth/auth_forgot_password/auth_forgot_password_widget.dart'
+    show AuthForgotPasswordWidget;
+export '/pages/auth/create_account/create_account_widget.dart'
+    show CreateAccountWidget;
+export '/pages/help/how_provider/how_provider_widget.dart'
+    show HowProviderWidget;
+export '/pages/how_client/how_client_widget.dart' show HowClientWidget;
+export '/pages/congrulations/congrulations_widget.dart'
+    show CongrulationsWidget;
+export '/pages/publish_client/client_date_select/client_date_select_widget.dart'
+    show ClientDateSelectWidget;
+export '/pages/publish_client/client_catering/client_catering_widget.dart'
+    show ClientCateringWidget;
+export '/pages/publish_client/client_beauty/client_beauty_widget.dart'
+    show ClientBeautyWidget;
+export '/pages/publish_client/client_homehelp/client_homehelp_widget.dart'
+    show ClientHomehelpWidget;
+export '/pages/publish_client/client_it_service/client_it_service_widget.dart'
+    show ClientItServiceWidget;
+export '/pages/publish_client/client_lesson/client_lesson_widget.dart'
+    show ClientLessonWidget;
+export '/pages/publish_client/client_admin/client_admin_widget.dart'
+    show ClientAdminWidget;
+export '/pages/publish_client/client_demenagement/client_demenagement_widget.dart'
+    show ClientDemenagementWidget;
+export '/pages/publish_client/client_auto/client_auto_widget.dart'
+    show ClientAutoWidget;
+export '/pages/publish_client/client_construction/client_construction_widget.dart'
+    show ClientConstructionWidget;
+export '/pages/publish_client/client_address/client_address_widget.dart'
+    show ClientAddressWidget;
+export '/pages/setting/paiement_client/paiement_client_widget.dart'
+    show PaiementClientWidget;
+export '/pages/publish_client/request_valid/request_valid_widget.dart'
+    show RequestValidWidget;
+export '/pages/notifications/notifications_widget.dart'
+    show NotificationsWidget;
+export '/pages/favoris/favoris_widget.dart' show FavorisWidget;
+export '/pages/auth/create_photo/create_photo_widget.dart'
+    show CreatePhotoWidget;
+export '/pages/chat/chat/chat_widget.dart' show ChatWidget;
+export '/pages/filters/filters/filters_widget.dart' show FiltersWidget;
+export '/publish_provider_new/publish_categorie/publish_categorie_widget.dart'
+    show PublishCategorieWidget;
+export '/pages/setting/payment_presta/payment_presta_widget.dart'
+    show PaymentPrestaWidget;
+export '/pages/profile/profil_client/profil_client_widget.dart'
+    show ProfilClientWidget;
+export '/pages/chat/conversation/conversation_widget.dart'
+    show ConversationWidget;
+export '/pages/help/help/help_widget.dart' show HelpWidget;
+export '/pages/help/help_your_account/help_your_account_widget.dart'
+    show HelpYourAccountWidget;
+export '/pages/help/terms_conditions/terms_conditions_widget.dart'
+    show TermsConditionsWidget;
+export '/pages/filters/filters_avis_client/filters_avis_client_widget.dart'
+    show FiltersAvisClientWidget;
+export '/pages/filters/filters_categorie_client/filters_categorie_client_widget.dart'
+    show FiltersCategorieClientWidget;
+export '/pages/filters/filters_tarif_provider/filters_tarif_provider_widget.dart'
+    show FiltersTarifProviderWidget;
+export '/pages/profile/profil_presta/profil_presta_widget.dart'
+    show ProfilPrestaWidget;
+export '/pages/home/home_widget.dart' show HomeWidget;
+export '/pages/filters/filters_distance_client/filters_distance_client_widget.dart'
+    show FiltersDistanceClientWidget;
+export '/pages/setting/edit_profile/edit_profile_widget.dart'
+    show EditProfileWidget;
+export '/pages/help/help_services/help_services_widget.dart'
+    show HelpServicesWidget;
+export '/pages/help/help_absence/help_absence_widget.dart'
+    show HelpAbsenceWidget;
+export '/pages/help/help_informations/help_informations_widget.dart'
+    show HelpInformationsWidget;
+export '/pages/publish_client/reservations_client/reservations_client_widget.dart'
+    show ReservationsClientWidget;
+export '/pages/setting/provider_reservations/provider_reservations_widget.dart'
+    show ProviderReservationsWidget;
+export '/pages/provider_admin/provider_admin_widget.dart'
+    show ProviderAdminWidget;
+export '/pages/profile/profil_demande_annonce/profil_demande_annonce_widget.dart'
+    show ProfilDemandeAnnonceWidget;
+export '/pages/profile/profil_reponse_annonce/profil_reponse_annonce_widget.dart'
+    show ProfilReponseAnnonceWidget;
+export '/pages/publish_provider/provider_beauty/provider_beauty_widget.dart'
+    show ProviderBeautyWidget;
+export '/publish_provider_new/select_qualification/select_qualification_widget.dart'
+    show SelectQualificationWidget;
+export '/pages/provider_auto/provider_auto_widget.dart' show ProviderAutoWidget;
+export '/pages/publish_provider/provider_demenagement/provider_demenagement_widget.dart'
+    show ProviderDemenagementWidget;
+export '/pages/publish_provider/provider_homehelp/provider_homehelp_widget.dart'
+    show ProviderHomehelpWidget;
+export '/pages/publish_provider/provider_lesson/provider_lesson_widget.dart'
+    show ProviderLessonWidget;
+export '/pages/publish_provider/provider_catering/provider_catering_widget.dart'
+    show ProviderCateringWidget;
+export '/pages/publish_provider/provider_it_services/provider_it_services_widget.dart'
+    show ProviderItServicesWidget;
+export '/publish_provider_new/provider_address/provider_address_widget.dart'
+    show ProviderAddressWidget;
+export '/pages/filters/filters_distance_provider/filters_distance_provider_widget.dart'
+    show FiltersDistanceProviderWidget;
+export '/pages/filters/filters_categorie_provider/filters_categorie_provider_widget.dart'
+    show FiltersCategorieProviderWidget;
+export '/pages/filters/filters_avis_provider/filters_avis_provider_widget.dart'
+    show FiltersAvisProviderWidget;
+export '/pages/setting/edit_languages/edit_languages_widget.dart'
+    show EditLanguagesWidget;
+export '/pages/filters/filters_gender_client/filters_gender_client_widget.dart'
+    show FiltersGenderClientWidget;
+export '/pages/filters/filters_gender_provider/filters_gender_provider_widget.dart'
+    show FiltersGenderProviderWidget;
+export '/pages/filters/filters_tarif_client/filters_tarif_client_widget.dart'
+    show FiltersTarifClientWidget;
+export '/pages/filters/filters_ranking_provider/filters_ranking_provider_widget.dart'
+    show FiltersRankingProviderWidget;
+export '/pages/filters/filters_ranking_client/filters_ranking_client_widget.dart'
+    show FiltersRankingClientWidget;
+export '/pages/filters/filters_rating_client/filters_rating_client_widget.dart'
+    show FiltersRatingClientWidget;
+export '/pages/filters/filters_rating_provider/filters_rating_provider_widget.dart'
+    show FiltersRatingProviderWidget;
+export '/pages/publish_provider/provider_apply/provider_apply_widget.dart'
+    show ProviderApplyWidget;
+export '/pages/auth/welcome/welcome_widget.dart' show WelcomeWidget;
+export '/publish_provider_new/select_payment/select_payment_widget.dart'
+    show SelectPaymentWidget;
+export '/pages/publish_client/book_service/book_service_widget.dart'
+    show BookServiceWidget;
+export '/pages/notification/notification_widget.dart' show NotificationWidget;
+export '/pages/help/help_center/help_center_widget.dart' show HelpCenterWidget;
+export '/publish_provider_new/publish_rate_availability/publish_rate_availability_widget.dart'
+    show PublishRateAvailabilityWidget;
+export '/publish_provider_new/requestconfirm/requestconfirm_widget.dart'
+    show RequestconfirmWidget;

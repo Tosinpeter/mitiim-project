@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "858702192572",
+    "project_id": "mitimapp-d36b0",
+    "storage_bucket": "mitimapp-d36b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858702192572:android:b1a19d62d3d8fc2128d5b9",
+        "android_client_info": {
+          "package_name": "com.mycompany.mitiimprojectuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858702192572-78la8emel28ov4ajosgk8cah45o9j1v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.mitiimprojectuk",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "858702192572-b3gf637f9flru1tda31prc34d07aro2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjKJZl46Nr97N_oViexfSdydzDYoDEGpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858702192572-b3gf637f9flru1tda31prc34d07aro2g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858702192572-07n6lvucr6qa1mg3oal6554ern0pk556.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.mitiimprojectuk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

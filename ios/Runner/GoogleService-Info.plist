@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>858702192572-07n6lvucr6qa1mg3oal6554ern0pk556.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.858702192572-07n6lvucr6qa1mg3oal6554ern0pk556</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>858702192572-78la8emel28ov4ajosgk8cah45o9j1v1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHrc6voPcGWzVVqgpReqL_3mYBLULS8ys</string>
+	<key>GCM_SENDER_ID</key>
+	<string>858702192572</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.mitiimprojectuk</string>
+	<key>PROJECT_ID</key>
+	<string>mitimapp-d36b0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mitimapp-d36b0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:858702192572:ios:b11243e8f80965f828d5b9</string>
+</dict>
+</plist>
